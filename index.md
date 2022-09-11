@@ -2,6 +2,7 @@
 # 主题：奥秘事的管家
 # 经文：哥林多前书4:1-21
 # 讲员：赵牧师
+<audio controls src="./奥秘事的管家.mp3"></audio>
 ![image](https://user-images.githubusercontent.com/91267933/189536230-fe0993a6-aafd-42da-92bc-fc853b625efa.png)
 ![image](https://user-images.githubusercontent.com/91267933/189536234-600cc56b-f1b1-42fb-ab6e-46528317c235.png)
 ![image](https://user-images.githubusercontent.com/91267933/189536238-fe171b78-8d18-4534-b4a3-ce3949f36e3d.png)
